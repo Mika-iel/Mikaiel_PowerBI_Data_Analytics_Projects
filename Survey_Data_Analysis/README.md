@@ -28,9 +28,9 @@ The raw survey dataset was prepared using Power Query:
 * Transformed salary data:
   - The yearly salary column originally contained salary ranges.
   - The salary range was split into:
-    ~ Minimum salary
-    ~ Maximum salary
-    ~ Average salary (Calculated from Maximum and Minimum)
+    - Minimum salary
+    - Maximum salary
+    - Average salary (Calculated from Maximum and Minimum)
   - The minimum and maximum salary columns were removed, leaving the average salary for analysis.
 
 * Checked and corrected data types before loading the dataset into Power BI.
@@ -58,8 +58,8 @@ An interactive Power BI dashboard was created to analyse:
 
 * Job Satisfaction Analysis
   - Created gauge charts showing:
-    ~ Happiness with current position
-    ~ Satisfaction with current salary
+    - Happiness with current position
+    - Satisfaction with current salary
 
 * Difficulty Entering Data Careers (Donut Chart)
   - Analysed respondents' opinions on the difficulty of entering the data field.
